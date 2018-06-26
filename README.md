@@ -1,3 +1,5 @@
+[2018 EMBL SWC Workshop webpage here](https://tobyhodges.github.io/2018-10-16-heidelberg/)
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
