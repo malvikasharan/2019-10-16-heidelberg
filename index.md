@@ -152,6 +152,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   attempt to provide them.
 </p>
 
+<p><strong>Registration</strong>: Please register for the workshop via the EMBL Course and Conference Office page
+	<a href="https://www.embl.de/training/events/2018/SWC18-01/index.html">here</a>.</p>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
