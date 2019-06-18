@@ -6,14 +6,14 @@ address: "Meyerhofstrasse 1, 69117 Heidelberg"      # full street address of wor
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "49.384060,8.710757"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "16-18 October 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "16-18 October 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-10-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-10-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Toby Hodges", "Thomas Schwarzl", "Mike Smith", "Holger Dinkel", "Frank Thommen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Christian Arnold","Juliana Glavina","Thea Van Rossum","Claudia Beleites","Georg Zeller"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["toby.hodges@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: http://pad.software-carpentry.org/2018-10-16-heidelberg            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+startdate: 2019-10-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-10-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Malvika Sharan", "Toby Hodges (tbc)", "Thomas Schwarzl", "Mike Smith", "Holger Dinkel", "Frank Thommen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Thea Van Rossum","Georg Zeller","TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["malvika.sharan@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: http://pad.software-carpentry.org/2019-10-16-heidelberg            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -153,7 +153,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>Registration</strong>: Please register for the workshop via the EMBL Course and Conference Office page
-	<a href="https://www.embl.de/training/events/2018/SWC18-01/index.html">here</a>.</p>
+	<a href="https://www.embl.de/training/events/2019/SWC19-01/">here</a>.</p>
 
 {% comment %}
   CONTACT EMAIL ADDRESS
