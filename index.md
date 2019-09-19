@@ -7,7 +7,7 @@ country: "de"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "49.384060,8.710757"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "16-18 October 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "09:00 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "09:15 - 17:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-10-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Malvika Sharan", "Holger Dinkel", "Frank Thommen", "Thomas Schwarzl", "Toby Hodges", "Renato Alves"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -146,16 +146,35 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  organizers in advance.  If we can make any arrangement (e.g. larger fonts in the printed materials, lactation facilities) 
+	to make your participation at this course more conveniant, please
+  get in touch (using contact details below) with us.
 </p>
 
-<p><strong>Registration</strong>: Please register for the workshop via the EMBL Course and Conference Office page
-	<a href="https://www.embl.de/training/events/2019/SWC19-01/">here</a>.</p>
+<p><strong>Registration</strong>: Registration for this workshop is closed.
+	<a href="https://www.embl.de/training/events/2019/SWC19-01/">(webpage)</a>.</p>
 
 {% comment %}
+
+{% comment%}
+CODE OF CONDUCT
+{% endcomment %}
+<p id="code-of-conduct">
+<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct (CoC)</a>. This document also outlines how to report an incident if needed.
+
+To report any CoC related concerns or incidents, please use this <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">incident reporting form</a>. You are welcome to contact Malvika Sharan (deputy chair of The Carpentries CoC) by emailing (<a href="mailto:malvikasharan@gmail.com">malvikasharan@gmail.com</a>) who will be available to address your inquiries. You can also directly write an email to the Code of Conduct Committee (<a href="mailto:coc@carpentries.org">coc@carpentries.org</a>).  
+</p>
+
+
+{% comment%}
+CODE OF CONDUCT
+{% endcomment %}
+<p id="code-of-conduct">
+<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+
+To report any CoC related concerns or incidents, please use this <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">incident reporting form</a>. You are welcome to contact Malvika Sharan (deputy chair of CoC) by emailing (<a href="mailto:malvikasharan@gmail.com">malvikasharan@gmail.com</a>) who will be available to address your inquiries, or directly write an email to the Code of Conduct Committee (<a href="mailto:coc@carpentries.org">coc@carpentries.org</a>).  
+</p>
+
   CONTACT EMAIL ADDRESS
 
   Display the contact email address set in the configuration file.
