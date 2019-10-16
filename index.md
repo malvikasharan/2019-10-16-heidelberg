@@ -172,7 +172,9 @@ CODE OF CONDUCT
 <p id="code-of-conduct">
 <strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 
-To report any CoC related concerns or incidents, please use this <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">incident reporting form</a>. You are welcome to contact Malvika Sharan (deputy chair of CoC) by emailing (<a href="mailto:malvikasharan@gmail.com">malvikasharan@gmail.com</a>) who will be available to address your inquiries, or directly write an email to the Code of Conduct Committee (<a href="mailto:coc@carpentries.org">coc@carpentries.org</a>).  
+To report any CoC related concerns or incidents, please use this <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">incident reporting form</a>. 
+
+You are welcome to contact Malvika Sharan (deputy chair of CoC) by emailing (<a href="mailto:malvikasharan@gmail.com">malvikasharan@gmail.com</a>) who will be available to address your inquiries, or directly write an email to the Code of Conduct Committee (<a href="mailto:coc@carpentries.org">coc@carpentries.org</a>).  
 </p>
 
   CONTACT EMAIL ADDRESS
